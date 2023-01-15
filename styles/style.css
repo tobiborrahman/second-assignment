@@ -396,7 +396,7 @@ a {
 /*---------------------
      Media Query 
 -----------------------*/
-@media screen and (min-width: 0px) and (max-width: 576px) {
+@media screen and (max-width: 576px) {
     #auto{
       width: 576px;
       margin: 0 auto;
